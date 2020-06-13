@@ -1,8 +1,8 @@
 {
     "results": {
         "staus": 1,
-        "reason": "",
-        "reason_msg": "",
+        "reason": " ",
+        "reason_msg": " ",
     },
     "data": {
         "id": 3,
