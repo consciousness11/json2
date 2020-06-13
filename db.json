@@ -8,28 +8,4 @@
 "cre_date": "2020-04-30 16:59:04",
 "disp_flg": 1,
 "del_flg": 0
-},
-"footer": {
-"item": [
-{
-"@type": "tablink",
-"@src": "tab0",
-"#label": "how to"
-},
-{
-"@type": "tablink",
-"@src": "tab3",
-"#label": "popular"
-},
-{
-"@type": "clip",
-"@src": "clip",
-"#label": "clip"
-},
-{
-"@type": "webview",
-"@src": "http:\/\/rank.html",
-"#label": "ranking"
-}
-]
 }
